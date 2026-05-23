@@ -1,0 +1,84 @@
+aid: brain-corp
+name: Brain Corp
+description: >-
+  Brain Corp builds BrainOS, an autonomy platform that powers commercial
+  service robots for floor care, inventory scanning, and remote site
+  management across retail, warehouses, education, airports, malls,
+  healthcare, and hospitality. The product portfolio includes the BrainOS
+  Sense Suite, Clean Suite, ShelfOptix scanning-as-a-service, RFID
+  localization, and remote site management tools. Brain Corp integrates with
+  OEM partners and operators rather than offering a public developer portal,
+  and does not publish open APIs.
+kind: company
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Autonomous Mobile Robots
+  - Autonomy
+  - BrainOS
+  - Cleaning Robots
+  - Floor Care
+  - Inventory Management
+  - RFID
+  - Retail Robotics
+  - Robotics
+  - Scanning as a Service
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/brain-corp/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.braincorp.com/
+  - type: BrainOSPlatform
+    url: https://www.braincorp.com/brainos
+  - type: SenseSuite
+    url: https://www.braincorp.com/sense-suite
+  - type: CleanSuite
+    url: https://www.braincorp.com/clean-suite
+  - type: ShelfOptix
+    url: https://www.braincorp.com/scanning-as-a-service
+  - type: InventoryManagement
+    url: https://www.braincorp.com/inventory-management
+  - type: FloorCare
+    url: https://www.braincorp.com/floor-care
+  - type: RFIDLocalization
+    url: https://www.braincorp.com/rfid-localization
+  - type: RemoteSiteManagement
+    url: https://www.braincorp.com/remote-site-management
+  - type: Retail
+    url: https://www.braincorp.com/retail
+  - type: Warehouses
+    url: https://www.braincorp.com/warehouses
+  - type: Healthcare
+    url: https://www.braincorp.com/healthcare
+  - type: Hospitality
+    url: https://www.braincorp.com/hospitality
+  - type: AboutUs
+    url: https://www.braincorp.com/about
+  - type: Partners
+    url: https://www.braincorp.com/partners
+  - type: Careers
+    url: https://www.braincorp.com/careers
+  - type: Resources
+    url: https://www.braincorp.com/resources
+  - type: Press
+    url: https://www.braincorp.com/resources?type=Press+release
+  - type: TrustHub
+    url: https://www.braincorp.com/trust
+  - type: Security
+    url: https://www.braincorp.com/security
+  - type: Safety
+    url: https://www.braincorp.com/safety
+  - type: PrivacyPolicy
+    url: https://www.braincorp.com/privacy
+  - type: Legal
+    url: https://www.braincorp.com/legal
+  - type: Portal
+    url: https://brainos.com/login
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/brain-corp/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
