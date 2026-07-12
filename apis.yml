@@ -29,6 +29,10 @@ modified: '2026-05-23'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: TrustCenter
+    url: security/brain-corp-trust-center.yml
+  - type: DomainSecurity
+    url: security/brain-corp-domain-security.yml
   - type: Website
     url: https://www.braincorp.com/
   - type: BrainOSPlatform
@@ -79,6 +83,8 @@ common:
     url: https://brainos.com/login
   - type: LinkedIn
     url: https://www.linkedin.com/company/brain-corp/
+  - url: https://www.braincorp.com/resources
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
